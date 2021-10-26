@@ -1,4 +1,4 @@
-# Hello, here you are! 🖐️ I'm CuongTV, and this is a very professional profile
+## Hello 👋. I'm CuongTV, and this is a very professional profile.
 
 ![](https://enlivit.com/assets/images/main_image.gif)
 
@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuonganh&layout=compact&langs_count=10)
 
 <!--
-**cuonganh/CuongTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cuonganh/cuonganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
