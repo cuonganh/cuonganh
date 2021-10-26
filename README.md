@@ -1,4 +1,4 @@
-## Hello 👋. I'm CuongTV, and this is a very professional profile.
+## Welcome to CuongTV's zone 👋👋.
 
 ![](https://enlivit.com/assets/images/main_image.gif)
 
